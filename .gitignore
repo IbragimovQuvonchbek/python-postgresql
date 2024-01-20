@@ -1,4 +1,4 @@
-env
 .venv
 /__pycashe__
 .idea
+.env
