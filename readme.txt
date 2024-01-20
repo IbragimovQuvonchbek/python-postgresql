@@ -1,0 +1,1 @@
+Do not forget to change information in .env file
